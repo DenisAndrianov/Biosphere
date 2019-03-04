@@ -1,7 +1,9 @@
 package properties;
 
 public enum Status {DEAD, BAD, AVERAGE, GOOD, PERFECT, UPDATE;
-    public Status upStatus (int live, int maxLive)  {
+
+
+public Status upStatus (int live, int maxLive)  {
     Status status = UPDATE;
     if (live == 0)  {
         status = DEAD;

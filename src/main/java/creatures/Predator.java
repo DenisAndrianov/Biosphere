@@ -1,4 +1,4 @@
 package creatures;
 
-abstract public class Predator extends Animal{
+abstract public class Predator extends Animal   {
 }
