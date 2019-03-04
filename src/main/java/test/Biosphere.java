@@ -7,7 +7,8 @@ import creatures.feline.*;
 
 public class Biosphere {
     public static void main (String[] args) {
-    Tiger tig = new Tiger(61,150);
+    Tiger tig = new Tiger();
         System.out.println("status: " + tig.status);
+        System.out.println("hunger: " + tig.hunger);
     }
 }

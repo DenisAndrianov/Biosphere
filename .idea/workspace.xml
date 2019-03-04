@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="017e9a9b-dc4b-48a6-aa95-5d80ba208a6c" name="Default Changelist" comment="Добавлена начальная иерархия абстрактных классов.&#10;Добавлены классы конкретных экземпляров кошачьих.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/Predator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/feline/Feline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/feline/Feline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/creatures/feline/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creatures/feline/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/properties/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/properties/Status.java" afterDir="false" />
+    <list default="true" id="017e9a9b-dc4b-48a6-aa95-5d80ba208a6c" name="Default Changelist" comment="Добавлены псовые и грызуны">
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/canine/Coyote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/canine/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/canine/Jackal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/canine/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/rodent/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/rodent/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/rodent/Rat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/rodent/Rodent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creatures/rodent/Squirrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Biosphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Biosphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/creatures/Creature.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/creatures/Creature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/creatures/feline/Jaguar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/creatures/feline/Jaguar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/creatures/feline/Leopard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/creatures/feline/Leopard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/creatures/feline/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/creatures/feline/Lion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/creatures/feline/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/creatures/feline/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/properties/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Biosphere.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Biosphere.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,8 +29,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Biosphere$Biosphere.ic" NAME="Biosphere Coverage Results" MODIFIED="1551715582129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Coyote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Jackal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Fox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rodent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Feline.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,16 +85,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Predator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Tiger.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="70" />
@@ -49,64 +94,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Creature.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/properties/Hunger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/properties/Status.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Mouse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Squirrel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="51">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rabbit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -116,8 +134,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,8 +157,6 @@
         <option value="$PROJECT_DIR$/src/main/java/creatures/Feline/Tiger.java" />
         <option value="$PROJECT_DIR$/src/main/java/creatures/canine/Canine.java" />
         <option value="$PROJECT_DIR$/src/main/java/creatures/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Biosphere.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creatures/Creature.java" />
         <option value="$PROJECT_DIR$/src/main/java/properties/Status.java" />
         <option value="$PROJECT_DIR$/src/main/java/properties/Hunger.java" />
         <option value="$PROJECT_DIR$/src/main/java/creatures/Predator.java" />
@@ -149,6 +165,17 @@
         <option value="$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java" />
         <option value="$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java" />
         <option value="$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Biosphere.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/Creature.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/canine/Wolf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/canine/Coyote.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/canine/Jackal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/canine/Fox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/rodent/Rodent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/rodent/Rat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/rodent/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/rodent/Squirrel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creatures/rodent/Rabbit.java" />
       </list>
     </option>
   </component>
@@ -163,6 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,24 +231,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creatures" type="462c0819:PsiDirectoryNode" />
-              <item name="canine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Biosphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Biosphere" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creatures" type="462c0819:PsiDirectoryNode" />
-              <item name="feline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Biosphere" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Biosphere" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="properties" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,14 +245,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551713349022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551724576556" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,6 +303,8 @@
       <workItem from="1551698159568" duration="18000" />
       <workItem from="1551700056533" duration="7940000" />
       <workItem from="1551711590503" duration="1971000" />
+      <workItem from="1551715406323" duration="299000" />
+      <workItem from="1551722850528" duration="1835000" />
     </task>
     <task id="LOCAL-00001" summary="Добавлена начальная иерархия абстрактных классов.&#10;Добавлены классы конкретных экземпляров кошачьих.">
       <created>1551703188798</created>
@@ -306,12 +317,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9929000" />
+    <option name="totallyTimeSpent" value="12063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +341,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -340,6 +351,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +359,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлена начальная иерархия абстрактных классов.&#10;Добавлены классы конкретных экземпляров кошачьих." />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлена начальная иерархия абстрактных классов.&#10;Добавлены классы конкретных экземпляров кошачьих." />
+    <MESSAGE value="Добавлены псовые и грызуны" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены псовые и грызуны" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -369,23 +382,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/properties/status/Status.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Biosphere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Canine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Predator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -393,52 +389,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Feline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Tiger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Creature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -453,6 +414,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Leopard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Biosphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Lion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/Creature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Canine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Wolf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Coyote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Jackal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/canine/Fox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Feline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/feline/Jaguar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Squirrel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creatures/rodent/Rodent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
