@@ -1,6 +1,6 @@
 package creatures.rodent;
 
-import creatures.Animal;
+import creatures.*;
 
 public abstract class Rodent extends Animal {
 }

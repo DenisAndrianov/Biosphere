@@ -2,6 +2,7 @@ package creatures.feline;
 
 public class Tiger extends Feline {
     public Tiger()    {
+        System.out.println("privet tigr");
         maxHungerValue = 250;
         maxLive = 150;
         live = (int) (Math.random()*maxLive);
